@@ -18,6 +18,7 @@ The list of folders that Robokup copies is as follows:
 Documents, Video, Pictures, Contacts, Downloads, Desktop, Chrome Profile, Notepad++ Profile,</BR>
 Mozilla Priofile, Filezilla Profile, Outlook Profile, Thunderbird Profile, Favorites.
 
+Obviously all the files (even the hidden ones), folders and folders are saved.
 
 <h2>:soccer::soccer::soccer: The Goal of this Simple Script :soccer::soccer::soccer:</h2>
 
