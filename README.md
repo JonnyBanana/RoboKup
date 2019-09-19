@@ -51,6 +51,11 @@ The paths of the folders may change depending on the language (especially for xp
 
 </BR>
 
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/RoboKup/master/img/bender.gif)
+
+</BR>
+
 <h2>Download with Git</h2>
 
 </BR>
