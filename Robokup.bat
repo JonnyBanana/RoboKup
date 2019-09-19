@@ -93,3 +93,5 @@ echo Robo_Backup Complete Dude!!!
 echo.
 start "C:\ProgramFiles(x86)\InternetExplorer\iexplore.exe" https://claudiochiaramonte.files.wordpress.com/2017/12/10001.gif?w=680&h=453m
 echo.
+pause
+exit
