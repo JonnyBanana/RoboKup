@@ -31,7 +31,7 @@ The Goals are:
 - Double click to start it on any system (with a ps1 file it would not be possible)
 - It recognizes the Windows version by itself and retrieves the folders from the right path
 - Copy all the main folders and profiles
-- Name the backup folder with the name of the computer and insert today's date+
+- Name the backup folder with the name of the computer and insert today's date
 - It recognizes the HardDrive name  by itself (for example D:\ or E:\)
 
 
