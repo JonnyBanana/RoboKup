@@ -8,7 +8,7 @@ Simple script in dos that automatically backs up all the main folders and profil
 </BR>
 
 
-<h2>:soccer::soccer::soccer:The Goal of this Simple Script:soccer::soccer::soccer:</h2>
+<h2>:soccer::soccer::soccer:b The Goal of this Simple Script :soccer::soccer::soccer:</h2>
 
 
 There are several scripts on the internet that do good or badly the same thing, but I decided to optimize some of these scripts so as to make the program compatible with all windows systems.
