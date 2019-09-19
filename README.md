@@ -15,7 +15,7 @@ Initially I wanted to use Powershell, but if I had done that the script would no
 
 The list of folders that Robokup copies is as follows:
 
-Documents, Video, Pictures, Contacts, Downloads, Desktop, Chrome Profile, Notepad++ Profile,
+Documents, Video, Pictures, Contacts, Downloads, Desktop, Chrome Profile, Notepad++ Profile,</BR>
 Mozilla Priofile, Filezilla Profile, Outlook Profile, Thunderbird Profile, Favorites.
 
 
