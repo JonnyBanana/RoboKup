@@ -2,9 +2,9 @@
 |    SYSTEM     | COMPATIBLE |     TESTS      |
 |               |            |                |
 +---------------+------------+----------------+
-| windows 98/ME |     N      |    UNTESTED    |
+| windows 98/ME |     Y      |    UNTESTED    |
 +---------------+------------+----------------+
-|   windows xp  |     N      |    UNTESTED    |
+|   windows xp  |     Y      |    UNTESTED    |
 +---------------+------------+----------------+
 | windows vista |     Y      |    UNTESTED    | 
 +---------------+------------+-----------------
