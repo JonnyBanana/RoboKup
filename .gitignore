@@ -23,3 +23,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Batch ###
+# BatchFiles
+*.bat
+*.cmd
+*.btm
