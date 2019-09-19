@@ -39,3 +39,13 @@ The Goals are:
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/RoboKup/master/img/script.PNG)
 
 </BR>
+
+<h2>How to Use???</h2>
+
+</BR>
+
+Put the Robokup.bat file in an external memory stick or hard disk and double click, then just wait for the final message that confirms the success of the backup.
+
+
+</BR>
+
