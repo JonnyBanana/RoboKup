@@ -76,7 +76,7 @@ ELSE (
 	xcopy /c /d /e /h /i /r /y "%USERPROFILE%\Music" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Musica"
 	xcopy /c /d /e /h /i /r /y "%USERPROFILE%\Videos" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Video"
 	xcopy /c /d /e /h /i /r /y "%USERPROFILE%\Contacts" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Contatti"
-	xcopy /c /d /e /h /i /r /y "%USERPROFILE%\Searches" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Ricerche
+	xcopy /c /d /e /h /i /r /y "%USERPROFILE%\Searches" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Ricerche"
 	xcopy /c /d /e /h /i /r /y "%USERPROFILE%\Preferiti" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Preferiti"
 	xcopy /c /d /e /h /i /r /y "%APPDATA%\Mozilla\Firefox" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Firefox"
 	xcopy /c /d /e /h /i /r /y "%USERPROFILE%\Impostazioni locali\Dati applicazioni\Google\Chrome\User Data" "BACKUP_%COMPUTERNAME%_%date:/=-%\%USERNAME%\Chrome"
