@@ -32,7 +32,7 @@ The Goals are:
 - It recognizes the Windows version by itself and retrieves the folders from the right path
 - Copy all the main folders and profiles
 - Name the backup folder with the name of the computer and insert today's date
-- It recognizes the HardDrive name  by itself (for example D:\ or E:\)
+- It recognizes the HardDrive name  by itself ( for example D:\ or E:\ )
 
 
 </BR>
