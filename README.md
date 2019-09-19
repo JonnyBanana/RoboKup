@@ -47,6 +47,7 @@ The Goals are:
 
 Put the Robokup.bat file in an external memory stick or hard disk and double click, then just wait for the final message that confirms the success of the backup.
 
+The paths of the folders may change depending on the language (especially for xp or earlier), so in the case adjust the paths before using the script, and since it is still in the test always check that the backup has been completely done, even if I have to say which in my tests has always given positive results ...
 
 </BR>
 
