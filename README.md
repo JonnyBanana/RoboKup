@@ -53,10 +53,10 @@ Put the Robokup.bat file in an external memory stick or hard disk and double cli
 
 </BR>
 
-git clone https://github.com/JonnyBanana/RoboKup
+Download with GIT:
 
-cd Robokup
+    git clone https://github.com/JonnyBanana/RoboKup
+    cd Robokup
 
 
 </BR>
-
